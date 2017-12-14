@@ -1,1 +1,3 @@
-CS373 collatz project
+**CS373 Software Engineering**
+
+Collatz project repo
